@@ -1,0 +1,10 @@
+[33m5fa5491[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m added individual tests
+[33m503b121[m realistic csv person data
+[33m0dcb2dc[m Improved code comments for readability and explanation
+[33ma711328[m added tests for grade calculation and email validation
+[33m360bfbf[m connected main program to process and display student data
+[33mddb29b0[m Added utility module with regex validation and file processing
+[33mc3423d3[m added person and student classes added inheritance
+[33md282988[m git add . git commit -m "Added realistic student CSV input data"
+[33m560706f[m add online IDE url
+[33mf804188[m Initial commit
