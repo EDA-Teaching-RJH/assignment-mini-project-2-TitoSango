@@ -21,3 +21,5 @@ class Student(Person):
             return "C"
         else:
             return "F"
+        
+        # Class representing a student and their grade logic
