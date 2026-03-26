@@ -1,0 +1,5 @@
+Alice Smith - alice.smith@gmail.com - 78 - A
+Bob Jones - bob.jones@yahoo.co.uk - 64 - B
+Diana Green - diana.green@outlook.com - 82 - A
+Frank Hall - frank.hall123@hotmail.com - 71 - A
+Grace Lee - grace-lee@kent.ac.uk - 68 - B
