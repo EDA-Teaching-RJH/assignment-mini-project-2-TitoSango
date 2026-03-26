@@ -86,10 +86,8 @@ def grade_summary(students):
     return summary
 
 
-# Extension feature: find the highest scoring student
+# Find the highest scoring student
 def find_top_student(students):
     if len(students) == 0:
         return None
     return max(students, key=lambda student: student.mark)
-
-
